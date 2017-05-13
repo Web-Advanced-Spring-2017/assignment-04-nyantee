@@ -1,0 +1,71 @@
+
+
+
+.fullscreen-bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+}
+
+.fullscreen-bg-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#container {
+  padding-top: 100px;
+  width: 500px;
+  margin: auto;
+}
+
+/*Neon*/
+p {
+  text-align: center;
+  font-size: 100px;
+  margin: 20px 0 20px 0;
+ 
+
+}
+
+a {
+  text-decoration: none;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  color: #fff;
+   text-shadow: 0px 0px 60px #9e5f0e;
+}
+
+
+
+p:nth-child(4) a {
+  color: #000;
+  font-family: PressStart;
+  font-size: 2em;
+  
+}
+
+p:nth-child(4) a:hover {
+  -webkit-animation: neon4 1.5s ease-in-out infinite alternate;
+  animation: neon4 1.5s ease-in-out infinite alternate;
+  color: #fff;
+}
+  
+
+
+@keyframes neon4 {
+  from {
+    text-shadow: 0 0 10px #f7f1be, 0 0 20px #f7f1be, 0 0 30px #f7f1be, 0 0 40px #f7f1be, 0 0 70px #f7f1be, 0 0 80px #f7f1be, 0 0 100px #f7f1be, 0 0 150px #f7f1be;
+  }
+  to {
+    text-shadow: 0 0 5px #f7f1be, 0 0 10px #f7f1be, 0 0 15px #f7f1be, 0 0 20px #f7f1be, 0 0 35px #f7f1be, 0 0 40px #f7f1be, 0 0 50px #f7f1be, 0 0 75px #f7f1be;
+  }
+}
+
+}
