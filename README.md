@@ -11,29 +11,31 @@ I want to develop this project into a mobile application that I can use to make 
 
 I used a simple poster video to create a moving background in each customized page
 
-/Users/nyanteeasherman/Desktop/Screen Shot 2017-05-13 at 7.57.30 PM.png
+![alt tag](/Users/nyanteeasherman/Desktop/Screen Shot 2017-05-13 at 7.57.30 PM.png)
 
 
 I used web-kit animations to animate the links on the page. I used this Code Pen tutorial as reference:
 https://codepen.io/raaasin/pen/quvHr
 
  
-/Users/nyanteeasherman/Desktop/Screen Shot 2017-05-13 at 7.56.08 PM.png
+![alt tag](/Users/nyanteeasherman/Desktop/Screen Shot 2017-05-13 at 7.56.08 PM.png)
 
 
 Then I used sockets to connect the clients to my server which I created using Node and Express:
 
 Sends message containing sound data being recieved to server:
 
-/Users/nyanteeasherman/Desktop/Screen Shot 2017-05-13 at 8.02.04 PM.png
+![alt tag](/Users/nyanteeasherman/Desktop/Screen Shot 2017-05-13 at 8.02.04 PM.png)
+
+
 
 Receives message from server to create second sketch in P5js:
 
-/Users/nyanteeasherman/Desktop/Screen Shot 2017-05-13 at 8.01.50 PM.png
+![alt tag](/Users/nyanteeasherman/Desktop/Screen Shot 2017-05-13 at 8.01.50 PM.png)
 
 I also used P5js sound library to capture information from the client’s microphone:
 
-/Users/nyanteeasherman/Desktop/Screen Shot 2017-05-13 at 8.05.11 PM.png
+![alt tag](/Users/nyanteeasherman/Desktop/Screen Shot 2017-05-13 at 8.05.11 PM.png)
 
 
 Some issues I ran into:
