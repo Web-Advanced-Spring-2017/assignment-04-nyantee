@@ -7,10 +7,11 @@ Full project documentation here : https://nyantee.squarespace.com/new-index#/res
 
 ## My ideation process began with a few initial thoughts as a base: So many of our commodities, especially our digital commodities are responsive and user-friendly. As traditional Christian religious practices such as exegesis, Bible-study, and dialogue are mapped onto digital platforms like smartphones, laptops, and other portable devices, will they be entirely responsive? Will they be able to adapt entirely? What, if anything, is lost when we adapt these religious rituals to the modern digital environment and ourselves?
 
-# I want to further develop this project into a mobile application that I can use to make a digital art installation which maps people who have connected to the application for prayer. *
+### I want to further develop this project into a mobile application that I can use to make a digital art installation which maps people who have connected to the application for prayer. *
 
 I used a simple poster video to create a moving background in each customized page:
 
+-------------
 <div class="fullscreen-bg">
     <video loop muted autoplay poster="img/videoframe.jpg" class="fullscreen-bg-video">
         <!-- <source src="video/big_buck_bunny.webm" type="video/webm"> -->
@@ -18,13 +19,13 @@ I used a simple poster video to create a moving background in each customized pa
         <!-- <source src="video/big_buck_bunny.ogv" type="video/ogg"> -->
     </video>
 </div>
-
+------------
 
 
 I used web-kit animations to animate the links on the page. I used this Code Pen tutorial as reference: https://codepen.io/raaasin/pen/quvHr
 
 
-
+----------------
 @keyframes neon4 {
   from {
     text-shadow: 0 0 10px #f7f1be, 0 0 20px #f7f1be, 0 0 30px #f7f1be, 0 0 40px #f7f1be, 0 0 70px #f7f1be, 0 0 80px #f7f1be, 0 0 100px #f7f1be, 0 0 150px #f7f1be;
@@ -33,7 +34,7 @@ I used web-kit animations to animate the links on the page. I used this Code Pen
     text-shadow: 0 0 5px #f7f1be, 0 0 10px #f7f1be, 0 0 15px #f7f1be, 0 0 20px #f7f1be, 0 0 35px #f7f1be, 0 0 40px #f7f1be, 0 0 50px #f7f1be, 0 0 75px #f7f1be;
   }
 }
-
+--------------
 
 Then I used sockets to connect the clients to my server which I created using Node and Express:
 
