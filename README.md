@@ -19,13 +19,15 @@ I used a simple poster video to create a moving background in each customized pa
         <!-- <source src="video/big_buck_bunny.ogv" type="video/ogg"> -->
     </video>
 </div>
-------------
+
+-------------
 
 
 I used web-kit animations to animate the links on the page. I used this Code Pen tutorial as reference: https://codepen.io/raaasin/pen/quvHr
 
 
-----------------
+-------------
+
 @keyframes neon4 {
   from {
     text-shadow: 0 0 10px #f7f1be, 0 0 20px #f7f1be, 0 0 30px #f7f1be, 0 0 40px #f7f1be, 0 0 70px #f7f1be, 0 0 80px #f7f1be, 0 0 100px #f7f1be, 0 0 150px #f7f1be;
@@ -34,7 +36,8 @@ I used web-kit animations to animate the links on the page. I used this Code Pen
     text-shadow: 0 0 5px #f7f1be, 0 0 10px #f7f1be, 0 0 15px #f7f1be, 0 0 20px #f7f1be, 0 0 35px #f7f1be, 0 0 40px #f7f1be, 0 0 50px #f7f1be, 0 0 75px #f7f1be;
   }
 }
---------------
+
+-------------
 
 Then I used sockets to connect the clients to my server which I created using Node and Express:
 
@@ -77,9 +80,12 @@ Sends message containing sound data being recieved to server:
 
     }
 
+-------------
 Receives message from server to create second sketch in P5js:
 
  socket.on('soundRx', otherSound);
+ 
+ -------------
 
 I also used P5js sound library to capture information from the client’s microphone:
 
@@ -89,7 +95,7 @@ I also used P5js sound library to capture information from the client’s microp
 
 
 
-
+-------------
 Some issues I ran into:
 
 - Making sure to clearly name the packages being sent and received to avoid confusing the sketch
