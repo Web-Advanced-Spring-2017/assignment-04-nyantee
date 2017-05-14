@@ -4,11 +4,10 @@ assignment-04-nyantee created by GitHub Classroom
 #Responsive God
 Full project documentation here : https://nyantee.squarespace.com/new-index#/responsive-god-final-ms2-project/
 
-![alt tag](assignment-04-nyantee/Images/Screen Shot 2017-05-11 at 1.06.50 AM.png)
 
-###My ideation process began with a few initial thoughts as a base: So many of our commodities, especially our digital commodities are responsive and user-friendly. As traditional Christian religious practices such as exegesis, Bible-study, and dialogue are mapped onto digital platforms like smartphones, laptops, and other portable devices, will they be entirely responsive? Will they be able to adapt entirely? What, if anything, is lost when we adapt these religious rituals to the modern digital environment and ourselves?
+## My ideation process began with a few initial thoughts as a base: So many of our commodities, especially our digital commodities are responsive and user-friendly. As traditional Christian religious practices such as exegesis, Bible-study, and dialogue are mapped onto digital platforms like smartphones, laptops, and other portable devices, will they be entirely responsive? Will they be able to adapt entirely? What, if anything, is lost when we adapt these religious rituals to the modern digital environment and ourselves?
 
-I want to further develop this project into a mobile application that I can use to make a digital art installation which maps people who have connected to the application for prayer. *
+# I want to further develop this project into a mobile application that I can use to make a digital art installation which maps people who have connected to the application for prayer. *
 
 I used a simple poster video to create a moving background in each customized page:
 
@@ -21,11 +20,10 @@ I used a simple poster video to create a moving background in each customized pa
 </div>
 
 
-<<<<<<< HEAD
+
 I used web-kit animations to animate the links on the page. I used this Code Pen tutorial as reference: https://codepen.io/raaasin/pen/quvHr
-=======
-![alt tag](Screen Shot 2017-05-11 at 1.06.50 AM.png)
->>>>>>> origin/master
+
+
 
 @keyframes neon4 {
   from {
