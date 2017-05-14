@@ -12,13 +12,14 @@ Full project documentation here : https://nyantee.squarespace.com/new-index#/res
 I used a simple poster video to create a moving background in each customized page:
 
 -------------
-<div class="fullscreen-bg">
+
+
     <video loop muted autoplay poster="img/videoframe.jpg" class="fullscreen-bg-video">
         <!-- <source src="video/big_buck_bunny.webm" type="video/webm"> -->
         <source src="gold.mp4" type="video/mp4">
         <!-- <source src="video/big_buck_bunny.ogv" type="video/ogg"> -->
     </video>
-</div>
+   
 
 -------------
 
