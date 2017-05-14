@@ -1,11 +1,11 @@
 # assignment-04-nyantee
 assignment-04-nyantee created by GitHub Classroom
 
-#Responsive God
+# Project Title: Responsive God
 Full project documentation here : https://nyantee.squarespace.com/new-index#/responsive-god-final-ms2-project/
 
 
-## My ideation process began with a few initial thoughts as a base: So many of our commodities, especially our digital commodities are responsive and user-friendly. As traditional Christian religious practices such as exegesis, Bible-study, and dialogue are mapped onto digital platforms like smartphones, laptops, and other portable devices, will they be entirely responsive? Will they be able to adapt entirely? What, if anything, is lost when we adapt these religious rituals to the modern digital environment and ourselves?
+### My ideation process began with a few initial thoughts as a base: So many of our commodities, especially our digital commodities are responsive and user-friendly. As traditional Christian religious practices such as exegesis, Bible-study, and dialogue are mapped onto digital platforms like smartphones, laptops, and other portable devices, will they be entirely responsive? Will they be able to adapt entirely? What, if anything, is lost when we adapt these religious rituals to the modern digital environment and ourselves?
 
 ### I want to further develop this project into a mobile application that I can use to make a digital art installation which maps people who have connected to the application for prayer. *
 
